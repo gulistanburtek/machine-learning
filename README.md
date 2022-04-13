@@ -1,6 +1,6 @@
 # machine-learning
 ## WEEK 1
-* []()
+* [3 kapı problemi](3_kapı_problemi.ipynb)
 ## WEEK 2
 ## WEEK 3
 ## WEEK 4
