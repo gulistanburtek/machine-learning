@@ -18,4 +18,4 @@
 ## WEEK 6
 * [diabetes](diabetes.ipynb)
 ## WEEK 7
-* [SVM](svm.ipynb)
+* [svm_naive_bayes](svm_naive_bayes.ipynb)
