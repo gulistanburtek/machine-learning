@@ -12,5 +12,6 @@
 *[confusion_matrix(KNC_tumor)](confusion_matrix(KNC_tumor).ipynb)
 ## WEEK 5
 ## WEEK 6
+*[diabetes](diabetes.ipynb)
 ## WEEK 7
 *[SVM](svm.ipynb)
