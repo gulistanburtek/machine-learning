@@ -8,6 +8,7 @@
 ## WEEK 2
 [DTS](DTS.ipynb)
 ## WEEK 3
+* [iris_dataset](iris_dataset.ipynb)
 ## WEEK 4
 * [confusion_matrix(KNC_tumor)](confusion_matrix(KNC_tumor).ipynb)
 ## WEEK 5
