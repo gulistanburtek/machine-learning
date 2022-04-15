@@ -12,6 +12,7 @@
 *[confusion_matrix(KNC_tumor)](confusion_matrix(KNC_tumor).ipynb)
 ## WEEK 5
 *[MULTIPLE_LINEAR_REGRESSION](MULTIPLE_LINEAR_REGRESSION.ipynb)
+*[LINEAR_REGRESSION](LINEAR_REGRESSION.ipynb)
 *[]()
 ## WEEK 6
 *[diabetes](diabetes.ipynb)
