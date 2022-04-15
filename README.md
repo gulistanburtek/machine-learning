@@ -9,6 +9,7 @@
 [DTS](DTS.ipynb)
 ## WEEK 3
 ## WEEK 4
+*[confusion_matrix(KNC_tumor)](confusion_matrix(KNC_tumor).ipynb)
 ## WEEK 5
 ## WEEK 6
 ## WEEK 7
