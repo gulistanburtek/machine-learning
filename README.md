@@ -4,9 +4,12 @@
 * [tez](tez.ipynb)
 ## WEEK 1
 * [3 kapı problemi](3_kapı_problemi.ipynb)
+* [DTS](DTS.ipynb)
 ## WEEK 2
+[DTS](DTS.ipynb)
 ## WEEK 3
 ## WEEK 4
 ## WEEK 5
 ## WEEK 6
 ## WEEK 7
+*[SVM](svm.ipynb)
