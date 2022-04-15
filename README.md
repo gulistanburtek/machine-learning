@@ -1,5 +1,5 @@
 # machine-learning
-## ekstra project
+## extra project
 * [gis](GIS_porject.ipynb)
 * [tez](tez.ipynb)
 ## WEEK 1
