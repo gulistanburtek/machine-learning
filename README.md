@@ -1,7 +1,9 @@
 # machine-learning
 ## extra project
-* [gis](GIS_porject.ipynb)
+* [gis SUPERVISED](GIS_porject.ipynb)
 * [tez](tez.ipynb)
+* [GIS UNSUPERVISED](gis_unsupervised.ipynb)
+* [VİSON]
 ## WEEK 1
 * [3 kapı problemi](3_kapı_problemi.ipynb)
 * [DTS](DTS.ipynb)
@@ -22,3 +24,8 @@
 ## WEEK 8
 ## WEEK 9
 * [RANDOM_FOREST](RANDOM_FOREST.ipynb)
+## WEEK 11
+* [PCA1](PCA1.ipynb)
+* [PCA2](PCA2.ipynb)
+## WEEK 13
+* []()
