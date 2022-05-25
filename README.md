@@ -24,8 +24,6 @@
 ## WEEK 8
 ## WEEK 9
 * [RANDOM_FOREST](RANDOM_FOREST.ipynb)
-## WEEK 11
+## WEEK 10
 * [PCA1](PCA1.ipynb)
 * [PCA2](PCA2.ipynb)
-## WEEK 13
-* []()
