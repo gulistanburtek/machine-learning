@@ -18,7 +18,7 @@
 * [LINEAR_REGRESSION](LINEAR_REGRESSION.ipynb)
 * [POLYNOMIAL_LİNEAR_REGRESSION](POLYNOMIAL_LİNEAR_REGRESSION.ipynb)
 ## WEEK 6
-* [diabetes](diabetes.ipynb)
+* [diabetes(logic regression)](diabetes.ipynb)
 ## WEEK 7
 * [svm_naive_bayes](svm_naive_bayes.ipynb)
 ## WEEK 8
