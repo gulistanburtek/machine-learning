@@ -21,7 +21,7 @@
 ## WEEK 6
 * [diabetes(logic regression)](diabetes.ipynb)
 ## WEEK 7
-* [svm_naive_bayes](svm - naive_bayes.ipynb)
+* [svm - naive_bayes](svm_naive_bayes.ipynb)
 ## WEEK 8
 ## WEEK 9
 * [RANDOM_FOREST](RANDOM_FOREST.ipynb)
