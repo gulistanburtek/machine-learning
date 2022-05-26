@@ -13,6 +13,7 @@
 * [iris_dataset](iris_dataset.ipynb)
 ## WEEK 4
 * [confusion_matrix(KNC_tumor)](confusion_matrix(KNC_tumor).ipynb)
+* [Biomechanical - KNN](Biomechanical_KNN.ipynb)
 ## WEEK 5
 * [MULTIPLE_LINEAR_REGRESSION](MULTIPLE_LINEAR_REGRESSION.ipynb)
 * [LINEAR_REGRESSION](LINEAR_REGRESSION.ipynb)
