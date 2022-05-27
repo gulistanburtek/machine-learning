@@ -32,3 +32,4 @@
 * [PCA2](PCA2.ipynb)
 ## week 11
 * [k-means](k_means.ipynb)
+* [GIS UNSUPERVISED(k-means)](gis_unsupervised.ipynb)
