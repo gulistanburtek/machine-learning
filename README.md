@@ -1,7 +1,7 @@
 # machine-learning
 ## extra project
 * [gis SUPERVISED](GIS_porject.ipynb)
-* [tez](tez.ipynb)
+* [ORMAN YANGINI TESPİTİ](tez.ipynb)
 * [GIS UNSUPERVISED](gis_unsupervised.ipynb)
 * [VİSON]
 ## WEEK 1
@@ -26,7 +26,7 @@
 ## WEEK 8
 ## WEEK 9
 * [RANDOM_FOREST](RANDOM_FOREST.ipynb)
-* [homework 9(all classifier)]
+* [homework 9(all classifier)](week 9 - homework.ipynb)
 ## WEEK 10
 * [PCA1](PCA1.ipynb)
 * [PCA2](PCA2.ipynb)
