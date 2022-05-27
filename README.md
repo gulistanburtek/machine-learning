@@ -26,7 +26,7 @@
 ## WEEK 8
 ## WEEK 9
 * [RANDOM_FOREST](RANDOM_FOREST.ipynb)
-* [homework 9(all classifier)](week_9_homework.ipynb)
+* [homework 9(10 classifier)](week_9_homework.ipynb)
 ## WEEK 10
 * [PCA1](PCA1.ipynb)
 * [PCA2](PCA2.ipynb)
