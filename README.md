@@ -20,11 +20,15 @@
 * [POLYNOMIAL_LİNEAR_REGRESSION](POLYNOMIAL_LİNEAR_REGRESSION.ipynb)
 ## WEEK 6
 * [diabetes(logic regression)](diabetes.ipynb)
+* [logistic regression homework 6]
 ## WEEK 7
 * [svm - naive_bayes](svm_naive_bayes.ipynb)
 ## WEEK 8
 ## WEEK 9
 * [RANDOM_FOREST](RANDOM_FOREST.ipynb)
+* [homework 9(all classifier)]
 ## WEEK 10
 * [PCA1](PCA1.ipynb)
 * [PCA2](PCA2.ipynb)
+## week 11
+* 
