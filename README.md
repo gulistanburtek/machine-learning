@@ -31,4 +31,4 @@
 * [PCA1](PCA1.ipynb)
 * [PCA2](PCA2.ipynb)
 ## week 11
-* 
+* [k-means](k_means.ipynb)
