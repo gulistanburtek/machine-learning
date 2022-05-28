@@ -1,6 +1,6 @@
 # machine-learning
 ## extra project
-* [gis SUPERVISED](GIS_porject.ipynb)
+* [GIS SUPERVISED](GIS_porject.ipynb)
 * [ORMAN YANGINI TESPİTİ](tez.ipynb)
 * [GIS UNSUPERVISED(k-means)](gis_unsupervised.ipynb)
 * [VİSON]
