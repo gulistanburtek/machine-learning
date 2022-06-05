@@ -30,7 +30,7 @@
 ## WEEK 10
 * [PCA1](PCA1.ipynb)
 * [PCA2](PCA2.ipynb)
-* [week 10 homework](week_10_homework.ipynb)
+* [homework 10](week_10_homework.ipynb)
 ## week 11
 * [k-means](k_means.ipynb)
 * [GIS UNSUPERVISED(k-means)](gis_unsupervised.ipynb)
